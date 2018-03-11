@@ -1,7 +1,9 @@
 README
 
 Link de visualização – 1ª versão: http://bl.ocks.org/JrafaelAmaral/0fbb2d620173111776279f97694c2d76
+
 Link de visualização – 2ª versão: http://bl.ocks.org/JrafaelAmaral/56b9953ac7b3a0513f5f2af1018814bb
+
 Link de visualização – 3ª versão: http://bl.ocks.org/JrafaelAmaral/d8376049883e915431133b31e26d73b2
 
 Resumo
